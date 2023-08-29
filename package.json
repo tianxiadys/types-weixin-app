@@ -2,9 +2,12 @@
   "name": "types-weixin-app",
   "version": "1.6.2307260",
   "license": "MIT",
-  "repository": "https://github.com/tianxiadys/types-weixin-app",
   "publishConfig": {
     "registry": "https://registry.npmjs.com/",
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianxiadys/types-weixin-app.git"
   }
 }
