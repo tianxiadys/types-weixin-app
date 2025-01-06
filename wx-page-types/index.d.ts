@@ -1,0 +1,14 @@
+import * as core from './core/index';
+import * as document from './document/index';
+import * as common from './common/index';
+export * from './types/common';
+export * from './types/document';
+export * from './types/js';
+export * from './types/style';
+export * from './types/wxml';
+export * from './datas/datas';
+export { core };
+export * from './connection/connection';
+export * from './connection/contracts';
+export { document };
+export { common };
